@@ -1,0 +1,78 @@
+        body{
+            background-image: url('image/birthdayimage 2.0.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 100px;
+            
+        }
+        #box1{
+            height: 100px;
+            width: 305px;
+            margin: 59px 0px 0px 478px;
+            padding: 62px 51px 5px 30px;
+            background-image: url('image/bg-pattern-card.svg');
+            border-top-right-radius:20px;
+            border-top-left-radius: 20px;
+        }
+        #box2{
+            height: 190px;
+            width: 324px;
+            margin: 0px 62px 12px 478px;
+            padding: 97px 44px 58px 17px;
+            background-color: white;
+            border-bottom-right-radius: 20px;
+            border-bottom-left-radius: 20px;
+}
+    
+#box3{
+    background-image: url('image/portfolioimage.jpg'); 
+    border-radius: 50%;
+    border-radius: 50%;
+    width: 154px;
+    height: 153px;
+    background-size: cover;
+    display: block;
+    margin: -363px 87px 58px 582px;
+    padding: 5px 0px 7px 7px;
+    border: 5px solid white;
+}
+
+#text2{
+    font-family: Matura MT Script Capitals;
+    padding: -11px 15px;
+    text-align:center;
+    margin:-37px 20px -1px 44px;
+  
+}
+
+#text3,#text4{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    margin:16px 20px 1px 55px;
+    font-size: 18px;
+  
+}
+
+#container{
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+    margin: -173px 29px 19px 124px;
+    font-size: 120%;
+  
+}
+.button{
+    margin: 171px 497px 23px 577px;
+    padding: 1px 1px 15px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 21px;
+   
+}
+.button ul{
+    margin:4px 4px 4px 4px;
+    padding:5px 5px 5px 5px;
+    overflow: auto;
+    list-style: none;
+    text-decoration: none;
+}
